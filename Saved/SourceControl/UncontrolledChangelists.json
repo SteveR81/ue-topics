@@ -10,7 +10,10 @@
 				"C:/git/Unreal/ue-topics/Content/Characters/AI/BP_NPC.uasset",
 				"C:/git/Unreal/ue-topics/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PU/0DNIPL5G9DWR7ZED9DO0CR.uasset",
 				"C:/git/Unreal/ue-topics/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/N0/QBS2FTNXMXHWD1687WKLA0.uasset",
-				"C:/git/Unreal/ue-topics/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/NF/C5LOUDYNESIGSH86PZKC0T.uasset"
+				"C:/git/Unreal/ue-topics/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/NF/C5LOUDYNESIGSH86PZKC0T.uasset",
+				"C:/git/Unreal/ue-topics/Content/Characters/AI/Tasks/BTTask_MoveRandomLocation.uasset",
+				"C:/git/Unreal/ue-topics/Content/Characters/AI/BT_NPC.uasset",
+				"C:/git/Unreal/ue-topics/Content/Characters/AI/BB_NPC.uasset"
 			]
 		}
 	]
