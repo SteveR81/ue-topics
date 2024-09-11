@@ -16,7 +16,9 @@
 				"C:/git/Unreal/ue-topics/Content/Characters/AI/BB_NPC.uasset",
 				"C:/git/Unreal/ue-topics/Content/Characters/AI/BTDecorator_CheckScale.uasset",
 				"C:/git/Unreal/ue-topics/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
-				"C:/git/Unreal/ue-topics/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/git/Unreal/ue-topics/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/git/Unreal/ue-topics/Content/Characters/AI/Tasks/BTTask_ClearBlackboardValue.uasset",
+				"C:/git/Unreal/ue-topics/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset"
 			]
 		}
 	]
