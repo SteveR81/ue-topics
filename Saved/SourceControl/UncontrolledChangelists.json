@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/git/Unreal/ue-topics/Content/Characters/AI/BP_NPC.uasset",
+				"C:/git/Unreal/ue-topics/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/git/Unreal/ue-topics/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/ZS/9OI20K5OASCYIQCN1P6N48.uasset",
+				"C:/git/Unreal/ue-topics/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/MU/I7D4UBK4CPXW9SVI1KBU70.uasset",
+				"C:/git/Unreal/ue-topics/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/90/QJQMDAWRJOUNK64JRFNUHU.uasset",
+				"C:/git/Unreal/ue-topics/Content/Characters/AI/AI_NPC.uasset",
 				"C:/Users/Stevil/Documents/Unreal Engine/Projects/ue_topics/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset"
 			]
 		}
